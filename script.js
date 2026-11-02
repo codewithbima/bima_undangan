@@ -22,7 +22,7 @@ const CONFIG = {
            { bank: "E-Wallet Contoh (PLACEHOLDER)", number: "081234567890", name: "a.n. Ayu Lestari Ningrum" } ],
   // URL Google Apps Script Web App (lihat README.md). Kosong = MODE DEMO (data TIDAK tersimpan ke server).
   rsvpEndpoint: "", wishEndpoint: "",
-  music: "assets/audio/bim undangan musik.mpeg"            // tombol musik otomatis tersembunyi jika file tidak ada
+  music: "bim undangan musik.mpeg"            // tombol musik otomatis tersembunyi jika file tidak ada
 };
 /* ===== AKHIR KONFIGURASI ===== */
 
